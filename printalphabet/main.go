@@ -2,6 +2,6 @@ package main
 
 func main(){
 
-	println("abcdefghijklmnopqrstuvwxyz")
+	println("abcdefghijklmnopqrstuvwxyz", '\n')
 
 }
